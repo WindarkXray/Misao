@@ -1,0 +1,2 @@
+Déposez ici les photos produits (ex. poivre-kivu.jpg),
+puis indiquez le chemin dans catalogue.js (champ img).
